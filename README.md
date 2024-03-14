@@ -1,1 +1,1 @@
-# STCAN
+# STCGAN
